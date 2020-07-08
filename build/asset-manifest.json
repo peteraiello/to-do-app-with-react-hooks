@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ShoppingListwithReactHooks/static/css/main.1dbc51d8.chunk.css",
+    "main.js": "/ShoppingListwithReactHooks/static/js/main.b4ae5f54.chunk.js",
+    "main.js.map": "/ShoppingListwithReactHooks/static/js/main.b4ae5f54.chunk.js.map",
+    "runtime-main.js": "/ShoppingListwithReactHooks/static/js/runtime-main.5b632693.js",
+    "runtime-main.js.map": "/ShoppingListwithReactHooks/static/js/runtime-main.5b632693.js.map",
+    "static/js/2.22159301.chunk.js": "/ShoppingListwithReactHooks/static/js/2.22159301.chunk.js",
+    "static/js/2.22159301.chunk.js.map": "/ShoppingListwithReactHooks/static/js/2.22159301.chunk.js.map",
+    "index.html": "/ShoppingListwithReactHooks/index.html",
+    "precache-manifest.6b2ca2d1a6ec83858762c6bb1d7cad7a.js": "/ShoppingListwithReactHooks/precache-manifest.6b2ca2d1a6ec83858762c6bb1d7cad7a.js",
+    "service-worker.js": "/ShoppingListwithReactHooks/service-worker.js",
+    "static/css/main.1dbc51d8.chunk.css.map": "/ShoppingListwithReactHooks/static/css/main.1dbc51d8.chunk.css.map",
+    "static/js/2.22159301.chunk.js.LICENSE.txt": "/ShoppingListwithReactHooks/static/js/2.22159301.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b632693.js",
+    "static/js/2.22159301.chunk.js",
+    "static/css/main.1dbc51d8.chunk.css",
+    "static/js/main.b4ae5f54.chunk.js"
+  ]
+}

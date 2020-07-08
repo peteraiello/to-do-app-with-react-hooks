@@ -1,3 +1,5 @@
-Run `npm install` on the directory and `npm start` to serve the site.
+Run `npm install` on the cloned directory and `npm start` to serve the site.
 
-A simple app made using React JS to help learn how to manage state using React hooks. 
+As of version 16.8 you can now you use React Hooks to manage state on your components. 
+
+React Hooks use uses array JavaScripts `array destructuring` syntax for accessing the current state and the updated state. 

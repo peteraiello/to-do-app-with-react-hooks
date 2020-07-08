@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+h3.app-title {
+  background: #1E78CD;
+  color: white;
+  padding: 1rem;
+  margin: 0;
+}
+
+.message {
+  border-radius: 0.5rem;
+  width: 200px;
+  color: #999;
+  margin: 1rem auto;
+}
